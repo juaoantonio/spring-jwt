@@ -1,6 +1,5 @@
 package br.com.joaobarbosa.springjwt.modules.users;
 
-import br.com.joaobarbosa.springjwt.modules.auth.dto.RegisterResquest;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
